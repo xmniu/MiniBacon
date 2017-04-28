@@ -1,0 +1,9 @@
+<use name="MiniBacon/DataFormats"/>
+<use name="MiniBacon/DataFillers"/>
+<use name="MiniBacon/Utils"/>
+<use name="TrackingTools/IPTools"/>
+<use name="FWCore/Framework"/>
+<flags CXXFLAGS="-g -Wall"/>
+<export>
+  <lib name="1"/>
+</export>
